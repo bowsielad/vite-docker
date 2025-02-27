@@ -1,0 +1,8 @@
+:root {
+  font-family: system-ui, sans-serif;
+  font-size: 10px;
+  line-height: 1.5;
+  font-weight: 400;
+  --sidebarOpen-width: 250px;
+  --sidebarClosed-width: 60px;
+}
